@@ -1,0 +1,849 @@
+@media (max-width:580px) {
+
+.owl-dots {
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+}
+.owl-dot.active {
+    background: #000 !important;
+}
+.owl-dot {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    background: #999!important;
+    border-radius: 50%;
+    display: flex;
+    cursor: pointer;
+}
+
+section.hero-sec img {
+    width: 100%;
+    height: 365px;
+    object-fit: cover;
+}  
+.jemu-hero-banner-tittle {
+    position: absolute;
+    top: -200px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    padding: 0 15px;
+    z-index: 2;
+}
+.jemu-hero-banner-tittle h1 {
+    font-size: 30px;
+}  
+.jemu-hero-banner-tittle h3#slider123 {
+    font-size: 25px;
+    line-height: 0.8;
+}  
+.helo-jemu {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+    padding-bottom:30px;
+    text-align: center;
+}
+span.jenu-style-jizga {
+    font-size: 50px;
+    line-height: 0.7;
+    color: #000;
+}
+section.home-wellcome {
+    width: 100%;
+    position: relative;
+    padding: 80px 0px 0px 0px;
+    overflow: hidden;
+}
+.jemu-geeting-para {
+    width: 100%;
+    position: relative;
+    padding: 20px;
+}
+.jemu-home-des-para {
+    width: 100%;
+    position: relative;
+    padding-right: 0px;
+}
+.jemu-single-logo-box {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+section.jemu-home-des-sec {
+    width: 100%;
+    position: relative;
+    padding:0px 0px 50px 0px;
+    overflow:hidden;
+}
+.jem-tailo {
+    width: 100%;
+    position: relative;
+    padding-left: 0px;
+}
+h2.jenu-tai-pa {
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.tailor-jemu-con-box h1 {
+    text-align: justify;
+    padding-bottom: 20px;
+}
+section.tailor-made-sec {
+    width: 100%;
+    position: relative;
+    padding: 50px 20px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:0px;
+    background-attachment: local;
+    overflow: hidden;
+}
+.tailor-jemu-con-box {
+    width: 100%;
+    margin-left: auto;
+}
+.top-heading-box {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.top-jemu-ry-logo img {
+    width: 40%;
+}
+span.jumu-btn-pic img {
+    width: 15px !important;
+}
+.itinery-card-box-ttou a {
+    text-decoration: none;
+    color: #000;
+    display: flex;
+}
+span.jumu-btn-pic:after {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    content: "";
+    border: 1.5px solid #000;
+    top:4px;
+    left:6px;
+}
+span.jumu-btn-pic {
+    position: relative;
+    border: 1.5px solid #000;
+    padding: 13px 16px;
+    margin-left: 20px;
+    margin-top: -12px;
+    border-radius: 50%;
+}
+.all-page-view-btn.main-desti-btn-rela {
+    padding-top: 0px;
+}
+.itinery-card-box-ttou span.jumu-btn-pic:after {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    content: "";
+    border: 1.5px solid #000;
+    top:4px;
+    left:6px;
+}
+.itinery-card-box-ttou h3 {
+    font-size: 25px;
+    line-height: 1;
+    padding-bottom: 10px;
+}
+section.jemu-best-ryno-sec {
+    width: 100%;
+    position: relative;
+    padding: 100px 20px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    margin: 0px;
+    overflow: hidden;
+}
+.ryno-jemu-expo {
+    width: 100%;
+    position: relative;
+}
+.ryno-jemu-expo h1 {
+    text-align: left;
+}
+.jemu-testi-bg {
+    width: 100%;
+    position: relative;
+    padding: 50px 20px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.testimonial-card h4 {
+    font-size: 25px;
+    line-height: 50px;
+}
+section.jemu-home-lodge {
+    width: 100%;
+    position: relative;
+    padding: 100px 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    margin: 0px;
+    overflow: hidden;
+}
+.loge-tittle-home-con h1 {
+    text-align: left;
+}
+section.jemu-footer-main-sec {
+    width: 100%;
+    position: relative;
+    background: #000;
+    margin-top: 80px;
+    padding: 0px 0px 10px 0px;
+    overflow: hidden;
+}
+.right-jemu-home-des {
+    width: 100%;
+    position: relative;
+    margin-top: 60px;
+}
+.jenu-con-boder:after {
+    width: 90%;
+    height: 100%;
+    position: absolute;
+    content: "";
+    top: 20px;
+    left: 20px;
+    border: 1px solid #e5e5e5;
+    z-index: -1;
+}
+section.getting-to-jenu {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.safari-itinery-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.testimonial-sec {
+    width: 100%;
+    position: relative;
+    margin: 50px 0px;
+    overflow: hidden;
+}
+section.jemu-expirence-sec {
+    width: 100%;
+    position: relative;
+    padding: 30px 0px;
+    overflow: hidden;
+}
+ul.list-iteam_jemu.jemufo_list {
+    display: none;
+}
+ul.list-iteam_jemu.jemufo_list1 {
+    display: none;
+}
+ul.list-iteam_jemu.jemufo_list2 {
+    display: none;
+}
+ul.jenu-foot-add.jemufo_list4 {
+    display: none;
+}
+.jemufooter-menu-list h4 {
+    color: #fff;
+    position: relative;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+}
+.jemufooter-menu-list h4:before {
+    position: absolute;
+    background-image: url(https://mwspl.in/jemuexpeditions/assest/images/arrow-footer.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 8px;
+    transition: transform .3s;
+    width: 16px;
+    top: 15px;
+    right: 0px;
+    filter: brightness(0) invert(1);
+    opacity: 0.4;
+}
+.footer-addres {
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+}
+.footer-addres h4:before {
+    position: absolute;
+    background-image: url(https://mwspl.in/jemuexpeditions/assest/images/arrow-footer.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 8px;
+    transition: transform .3s;
+    width: 16px;
+    top: 15px;
+    right: 0px;
+    filter: brightness(0) invert(1);
+    opacity: 0.4;
+}
+.footer-addres h4:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background:#736f6f73;
+    bottom: 7px;
+    left: 0;
+}
+.jemufooter-menu-list h4:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background:#736f6f73;
+    bottom: 7px;
+    left: 0;
+}
+.black-ry-jemu img {
+    width: 100% !important;
+    height: 100%;
+    object-fit: contain;
+    float: none;
+}
+  
+  
+.jemu-hed {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    overflow: hidden;
+}  
+  
+.jemu-main-menu,
+.header-main-butt {
+        display: none;
+    }
+
+.mobile-menu-toggle {
+    width: 100%;
+    display: flex;
+    position: relative;
+    text-align: right;
+    padding-right: 20px;
+    justify-content: flex-end;
+}
+.jenu-main-header-box {
+    width: 95%;
+    position: relative;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.jemu-hed.sticky .jenu-main-header-box {
+    width: 95%;
+    position: relative;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+.row.jemu-firest-box .col-md-2 {
+    width: 50%;
+}
+.row.jemu-firest-box .col-md-3 {
+    width: 50%;
+}
+.row.jemu-firest-box .col-md-7 {
+    display:none;
+}
+.jenu-header-logo-box {
+    width: 100%;
+    text-align: left;
+}
+ .helo-jemu-desti_baba h3 {
+    font-size: 40px;
+    text-transform: capitalize;
+    padding-bottom: 55px;
+} 
+.destinations_all_landing_slider {
+    width: 100% !important;
+    position: relative;
+    padding: 0px 0px;
+}  
+ .row.destinations_all_lanrra {
+    position: relative;
+    padding: 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+section.accommodation_land_over-sec {
+    width: 100%;
+    position: relative;
+    padding: 20px 0px 65px 0px;
+    overflow: hidden;
+}
+.helo-jemu-desti_baba {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 0px;
+}
+.jemu_itinery-iner-over h2 {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.jemu_itinery-iner-over {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.itinrttt_tour_titt h2 {
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.day_by_day-slider {
+    width: 100% !important;
+    position: relative !important;
+}
+.day_by_day-tours {
+    width: 80%;
+    position: absolute;
+    background: #fff;
+    top: 15%;
+    left: 10%;
+    box-shadow: 0px 12px 12px rgba(0, 0, 0, 0.1);
+}
+.include-exclu-box-para table {
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+section.jemu_itinery-overview {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.jemu-tour-it-day-by-day {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.include-exclu-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.row.include-exclu-box .col-md-6:nth-of-type(3) {
+  order: 4;
+}
+
+.row.include-exclu-box .col-md-6:nth-of-type(4) {
+  order: 3;
+}
+ul.jemu-ittinclude {
+    padding: 0;
+}
+.jemu-about-para-box {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+.jemu-about-para-box h3 {
+    font-size: 28px;
+    line-height: 45px;
+}
+.top-jemu-ry-kenya-logo {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+section.about-us-overview {
+    width: 100%;
+    position: relative;
+    padding: 60px 0px 0px 0px;
+    overflow: hidden;
+}
+.best-destination-wild-box h2 {
+    font-size: 30px;
+    text-transform: capitalize;
+    padding-bottom: 45px;
+}
+.wild_life_pico img {
+    width:30% !important;
+}
+.row.travel_best_wild {
+    display: flex !important;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.row.travel_best_wild > div {
+    width: 50%;
+}
+section.jemu_desti_card_sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.getting-to-jemu-des-se {
+    width: 100%;
+    position: relative;
+    padding: 60px 0px;
+    overflow: hidden;
+}
+section.diversity_wildlife-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.desti_unique-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.destination-land-gal-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.hero-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.hero-sec.only-safari-landing img {
+    width: 100% !important;
+    height: 300px !important;
+}
+ul.jemu_vit_callender {
+    width: 100%;
+    position: relative;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.jemu_trave-acti_iner-box {
+    width: 100%;
+    position: relative;
+}
+.des_wild_lefe_kook {
+    width: 100%;
+    position: relative;
+    padding: 0px;
+}
+.wild_jemukoli_box {
+    width: 100% !important;
+    position: relative !important;
+    padding-left: 0px;
+}
+.wild_jemukoli_box .owl-nav {
+    width: 100%;
+    position: absolute;
+    bottom: 6px;
+    top: auto;
+    left: -25px;
+    transform: translateY(-48%);
+    display: flex;
+    justify-content: center;
+    z-index: 999;
+    align-items: center;
+}
+.wild_jemukoli_box .owl-nav button.owl-prev {
+    transform: none;
+}
+.des_wild_lejemu_tittle {
+    width: 100%;
+    position: relative;
+    padding-left: 0px;
+}
+section.best_time_vis_withjemu {
+    width: 100%;
+    position: relative;
+    padding-top:0px;
+    overflow: hidden;
+}
+.realted-des-jemu-slider .owl-nav {
+    width: 100%;
+    position: absolute;
+    top: 115%;
+    left: 0;
+    transform: translateY(-50%);
+    display: flex !important;
+    justify-content: space-around;
+}
+.all-page-view-btn {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    z-index:10;
+}
+ul.mention_vist-day-list {
+    width: 100%;
+    position: relative;
+    padding: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-bottom: 0px !important;
+}
+section.related-desti_sec {
+    width: 100%;
+    position: relative;
+    padding: 0px 0px 50px 0px;
+    overflow: hidden;
+}
+.jemu-single-logo-box img {
+    width: 45%;
+}
+section.desti_wise_wildlife-sec {
+    width: 100%;
+    position: relative;
+    padding: 0px 0px  20px 0px;
+}
+.expir_over_inner_top {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 0px 10px 0px;
+}
+.expirence-height-box-card {
+    width: 100%;
+    position: relative;
+    display: block;
+}
+.height-box-inerleft-card {
+    width: 100%;
+    position: relative;
+    padding: 20px;
+}
+.height-box-iner-card {
+    width: 100%;
+    height:auto !important;
+    position: relative;
+    padding: 0px !important;
+    margin: 0px !important;
+    overflow: hidden;
+}
+.height-box-iner-para-card.line-jjgxggs {
+    border-left: none;
+    padding-left: 0px;
+}
+.best-time-to-iner-para-last {
+    width: 100%;
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+}
+.best-time-to-iner-para {
+    width: 100%;
+    position: relative;
+    padding-right: 0px;
+}
+.best-time-to-iner-pico {
+    width: 100%;
+    position: relative;
+    top: 0;
+    padding: 30px 0px;
+}
+section.best-time-to_expoy-sec {
+    width: 100%;
+    position: relative;
+    padding: 0px;
+    overflow: hidden;
+}
+section.best-time-to_ex-sec {
+    width: 100%;
+    position: relative;
+    padding-bottom: 0px;
+    overflow: hidden;
+}
+section.expirence-height-sec {
+    width: 100%;
+    position: relative;
+    margin: 30px 0px;
+    overflow: hidden;
+}
+section.new-expi-detai_over {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.height-box-inerleft-card h3 {
+    font-size: 35px;
+    padding-bottom: 35px;
+}
+.jemu-about-gallery-card {
+    width: 100%;
+    height: auto;
+}
+.jemu-about-gallery {
+    width: 100% !important;
+    position: relative !important;
+    display: block !important;
+}
+.safari-video-section {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.new-home-honn-border:before {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    content: "";
+    bottom: 45px;
+    right: 0;
+    border: 1px solid #e5e5e5;
+    z-index: -1;
+}
+.new-home-honn-border:after {
+    width: 90% !important;
+    height: 100% !important;
+    position: absolute;
+    content: "";
+    top: 0px;
+    right: 20px;
+    border: 1px solid #e5e5e5;
+    z-index: -1;
+}
+.support-content-right-con {
+    width: 100%;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+.new-home-honn-border-next:before {
+    width: 90% !important;
+    height: 90% !important;
+    position: absolute;
+    content: "";
+    bottom:115px;
+    left: 20px;
+    border: 1px solid #e5e5e5;
+    z-index: -1;
+}
+.new-home-honn-border-next:after {
+    width: 100% !important;
+    height: 90% !important;
+    position: absolute;
+    content: "";
+    top: 0px;
+    left:0px;
+    border: 1px solid #e5e5e5;
+    z-index: -1;
+}
+.parara-onwer {
+    width: 100%;
+    position: relative;
+    padding-right: 0px;
+}
+.support-content-right-con-next {
+    width: 100%;
+    position: relative;
+    padding: 35px 20px;
+}
+section.Owned-Since-sec {
+    width: 100%;
+    position: relative;
+    padding: 40px 0px 40px 0px;
+    overflow: hidden;
+}
+section.about-support-sec {
+    width: 100%;
+    position: relative;
+    padding: 40px 0px;
+    overflow: hidden;
+}
+section.Owners-sec-about {
+    width: 100%;
+    position: relative;
+    padding: 50px 0px;
+    overflow: hidden;
+}
+.jemu-about-gallery-card img {
+    width: 100% !important;
+}
+.jemu-about-gallery .owl-nav {
+    width: 100%;
+    position: absolute;
+    top: 80%;
+    left: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px;
+}
+a.butt-jemu-content {
+    display: flex;
+    font-size: 17px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+}
+.best-time-to-iner-para .accordion {
+    width: 100%;
+}
+section.best-time-to_ex-sec.new-policy-sec {
+    width: 100%;
+    position: relative;
+    margin-bottom: 50px;
+}
+.left_detail-cont {
+    width: 100%;
+    position: relative;
+    padding: 60px 0px 0px 0px;
+}
+.addres-box-cont.new-connnnn ul li a {
+    font-size: 20px;
+}
+.addres-box-cont.new-connnnn ul li {
+    font-size: 20px;
+}
+ul.jenu-foot-add li {
+    margin-top: 6px;
+}
+.addres-box-cont.new-connnnn ul li i {
+    font-size: 20px !important;
+    color: #000;
+}
+.right_detail-cont {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    padding: 0px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+/*mobile responsive code end  */
+
+}

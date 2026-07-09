@@ -1,0 +1,251 @@
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+.owl-dots {
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+}
+.owl-dot.active {
+    background: #000 !important;
+}
+.owl-dot {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    background: #999!important;
+    border-radius: 50%;
+    display: flex;
+    cursor: pointer;
+}
+.jemu-hed {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    overflow: hidden;
+}
+.row.jemu-firest-box .col-md-7 {
+    display: none;
+}
+.row.jemu-firest-box .col-md-2 {
+    width:40%;
+}
+.row.jemu-firest-box .col-md-3 {
+    width:60%;
+}
+.mobile-menu-toggle {
+    display: block;
+    position: relative;
+}
+.jemu-right-full-btn-box {
+    width: 100%;
+    position: relative;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-right: 15px;
+}
+.jenu-header-logo-box {
+    width: 100%;
+    text-align: left;
+}
+.jemu-hero-banner-tittle h1 {
+    font-size: 50px;
+}
+.jemu-hero-banner-tittle h3#slider123 {
+    font-size: 50px;
+}
+.jemu-hero-banner-tittle {
+    width: 100%;
+    position: absolute;
+    top: -230px;
+    text-align: center;
+    left: 0;
+}
+h1 {
+    font-size: 55px;
+    padding-bottom: 40px;
+}
+span.jenu-style-jizga {
+    font-size: 75px;
+}
+.row.geting-to-sec .col-md-6 {
+    width: 100%;
+}
+.right-jemu-home-des {
+    width: 100%;
+    position: relative;
+    margin-top: 50px;
+}
+.jemu-raja .col-md-6:last-of-type {
+  display: none;
+}
+.tailor-jemu-con-box {
+    width: 100%;
+    margin-left: auto;
+}
+.jem-tailo {
+    width: 100%;
+    position: relative;
+    padding-left: 0px;
+}
+section.tailor-made-sec {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding: 250px 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 50px 0;
+    background-attachment: local;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    overflow: hidden;
+}
+.ned-jemu-safari .col-md-3 {
+    width: 100% !important;
+}
+span.jumu-btn-pic img {
+    width: 18px !important;
+}
+.itinery-card-box-ttou span.jumu-btn-pic:after {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    content: "";
+    border: 1.5px solid #000;
+    top: 5px;
+    left: 6px;
+}
+.itinery-card-box-ttou h3 {
+    font-size: 25px;
+    line-height: 1;
+    padding-bottom: 20px;
+}
+.itinery-card-box-ttou a {
+    text-decoration: none;
+    color: #000;
+}
+section.jemu-best-ryno-sec {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding: 250px 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 50px 0;
+    background-attachment: local;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.jemu-testi-bg {
+    width: 100%;
+    position: relative;
+    padding: 50px 100px;
+}
+section.jemu-home-lodge {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding: 250px 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 50px 0;
+    background-attachment: local;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.jemu-ex-expirence .col-md-4 {
+    width: 100%;
+}
+a.butt-jemu-content {
+    display: flex;
+    align-items: center;
+}
+.top-jemu-ry-logo img {
+    width: 55%;
+    height: 77px !important;
+    object-fit: cover;
+}
+span.jumu-btn-pic:after {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    content: "";
+    border: 1.5px solid #000;
+    top: 8px;
+    left: 8px;
+}
+ul.footer-social {
+    width: 100%;
+    position: relative;
+    padding: 0;
+    display: block;
+    margin-top: 30px;
+}
+ul.footer-social li {
+    margin-bottom: 30px;
+}
+.hero-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.home-wellcome {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.jemu-home-des-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.safari-itinery-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.testimonial-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.jemu-expirence-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+section.jemu-footer-main-sec {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.black-ry-jemu img {
+    width: 100% !important;
+    height: 100%;
+    object-fit: contain;
+    float: right;
+}
+section.getting-to-jenu {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+
+/*tab responsive end here*/
+}
